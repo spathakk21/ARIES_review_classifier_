@@ -1,6 +1,6 @@
 # Review_classifier_aries
 
-Memebers:
+Members:
 
 Shubham Pathak (GT 2nd year)
 
